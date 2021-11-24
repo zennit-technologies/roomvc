@@ -1,7 +1,7 @@
 Connect
 Release Date    : 13 July 2021
 Author          : Zennit
-Author Email    : kodemintservices@gmail.com
+Author Email    : zennit.technologies@gmail.com
 Skype           : zennit-technologies
 Website         : https://zennit.in
 Support         : http://support.zennit.in
